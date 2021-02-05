@@ -153,18 +153,3 @@ footer {
 
 
 }
-
-@media (max-width: 722px) {
-    footer {
-        
-    }
-    .footer1 {
-        margin: auto;
-
-        justify-content: center;
-    }
-    .footer2 {
-        margin: auto;
-        justify-content: center;
-    }
-}
