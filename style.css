@@ -80,13 +80,15 @@ a:hover {
 #button1{
     background-color: #f8f9fa;
     border: none;
+    border: 1px solid transparent;
 
 }
 
 #button2{
     background-color: #f8f9fa;
     border: none;
-    margin-left: 10px
+    margin-left: 10px;
+    border: 1px solid transparent;
 
 }
 
