@@ -141,7 +141,7 @@ footer {
 
 
 .footerlink {
-    
+
     padding-left: 24px;
 }
 
@@ -150,4 +150,25 @@ footer {
     margin-right: 30px;
     float:right;
 
+
+}
+
+@media (max-width: 722px) {
+    footer {
+        height: 60px;
+        
+    }
+    .footer1 {
+        display: flex;
+        margin: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .footer2 {
+        display: flex;
+        margin: auto;
+
+        width: 100vw;
+        justify-content: center;
+    }
 }
