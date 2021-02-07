@@ -59,7 +59,9 @@ a:hover {
 }
 
 #form{
-    border: none
+    border: none;
+    width: 95%;
+    background-color: transparent;
 }
 
 #magnifying-glass{
